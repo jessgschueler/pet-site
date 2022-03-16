@@ -1,0 +1,25 @@
+body {
+  background-color: lavenderblush;
+  text-align: justify;
+  font-family: cursive
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+.fancy {
+  font-family: cursive;
+}
+
+.emph {
+  text-emphasis-color: rgb(197, 95, 197);
+}
