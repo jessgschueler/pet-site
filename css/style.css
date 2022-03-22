@@ -23,3 +23,11 @@ h1 {
 .emph {
   text-emphasis-color: rgb(197, 95, 197);
 }
+
+.dark-background {
+  background-color:rgba(0, 0, 0, 0.808);
+  color: rgb(156, 156, 156)
+}
+.changeColor {
+  background-color:yellow;
+}
